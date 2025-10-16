@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "7c18686d57835dcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "00a1a151c6c14eb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b9b127ff75be80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Markdown使用手册.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Markdown使用手册"
+            }
+          },
+          {
+            "id": "8da6cb369646845e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "github/git常用命令.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "git常用命令"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9c0a28095509cbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "25147f8c1b1ff6ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8196dee96afce1dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "df26e67e68339e48",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "push",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "3fe0f1f101d7b6ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "c548c1424ea2f4ba",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "e5a0c6b0b74aad11",
+    "type": "split",
+    "children": [
+      {
+        "id": "c15635da272a1894",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef6a6498011cc71e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "JavaSE_supplement/IO流.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "IO流 的反向链接列表"
+            }
+          },
+          {
+            "id": "fdf9b1421c3a90fe",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "JavaSE_supplement/IO流.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "IO流 的出链列表"
+            }
+          },
+          {
+            "id": "aee1c799c80af4be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "github/git常用命令.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "git常用命令 的大纲"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 334.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "random-note:开始漫游笔记": false,
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "graph:查看关系图谱": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "df26e67e68339e48",
+  "lastOpenFiles": [
+    "JavaSE_supplement/IO流.md",
+    "JavaSE_Photo/b59ced8d5af8f0237b26fdc24ec6d59a.png",
+    "JavaSE_Photo/Pasted image 20251005204608.png",
+    "JavaSE_Photo/fe433edd32cdd4293f2521e08ad5676c.jpg",
+    "JavaSE_supplement/异常.md",
+    "Markdown使用手册.md",
+    "github/gitbash基本命令.md",
+    "github/~syncthing~gitbash基本命令.md.tmp",
+    "JavaSE_supplement/~syncthing~IO流.md.tmp",
+    "github",
+    "未命名.md",
+    "JavaSE_supplement/File类.md",
+    "JavaSE_supplement/IDEA快捷键.md",
+    "未命名.canvas",
+    "2025-10-14.md",
+    "~syncthing~未命名.canvas.tmp",
+    "~syncthing~2025-10-14.md.tmp",
+    "马原作业.md",
+    "未命名-mindmap.md",
+    "JavaSE_supplement/JavaSE_supplement/JavaSE_Photo",
+    "JavaSE_supplement/JavaSE_supplement",
+    "2025-10-05.md",
+    "JavaSE_supplement/JavaSE_Photo/JavaSE_supplement/JavaSE_Photo",
+    "JavaSE_supplement/JavaSE_Photo/JavaSE_supplement",
+    "Claude code",
+    "未命名 1.md",
+    "欢迎.md"
+  ]
+}
